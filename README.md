@@ -4,9 +4,9 @@
 ```bash
 git clone https://github.com/r00thex/Root-_Advanced_Code_File_Decryption_Tool.git   
 ls
-cd Advanced_Code_File_Decryption_Tool
+cd Root-_Advanced_Code_File_Decryption_Tool
 ls
-python Advanced_Code_File_Decryption_Tool.py
+python racfrt.py
 ```
 
 
