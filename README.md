@@ -6,7 +6,7 @@ git clone https://github.com/r00thex/Root-_Advanced_Code_File_Decryption_Tool.gi
 ls
 cd Root-_Advanced_Code_File_Decryption_Tool
 ls
-python racfrt.py
+python racfdt.py
 ```
 
 
