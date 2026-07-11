@@ -58,4 +58,5 @@ File and text decryption
 
 Save/load functionality
 ```
-```join community:- https://t.me/+JnlnP_htDXg2NjBl```
+```join community:- 🔗```
+https://t.me/+JnlnP_htDXg2NjBl
