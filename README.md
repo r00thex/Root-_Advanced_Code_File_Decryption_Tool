@@ -13,6 +13,7 @@ python racfrt.py
 
 ```bash
 🚀 Working Features:
+
 Text Decryption:
 
 Base64 encoding/decoding
