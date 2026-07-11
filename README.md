@@ -1,10 +1,6 @@
 # Html code, php, &amp; others Code Decryption
 
 
-(![image](https://i.postimg.cc/zDLnSZVf/2025-11-25-100110.png)
-
-
-
 ```bash
 git clone https://github.com/r00thex/Root-_Advanced_Code_File_Decryption_Tool.git   
 ls
